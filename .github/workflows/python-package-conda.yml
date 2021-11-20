@@ -1,5 +1,5 @@
 name: Github Actions in Windows
-jobs
+jobs:
   build-windows:
     runs-on: windows-latest
 
